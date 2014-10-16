@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ayu:home|Door43 (ayu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ayu|d43-ayu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ayu/archive/master.zip|d43-ayu.zip]]
+
+**Recent Changes**
+{{changes>ns = ayu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ayu|Ethnologue data]]
+
